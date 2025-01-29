@@ -1,3 +1,8 @@
+---
+layout: default
+title: Titanic 
+---
+
 # Titanic Overview
 
 This project aims to predict the survival of passengers on the Titanic based on various features such as age, sex, class, and fare. The project uses machine learning algorithms to train models on the Titanic dataset and evaluate their performance.
