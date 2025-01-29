@@ -4,4 +4,15 @@ title: Titanic
 ---
 
 # Titanic
-Kaggle
+
+```python
+pip install opencv-python
+pip install pytesseract
+pip install pdf2image
+```
+
+```python
+pip install opencv-python
+pip install pytesseract
+pip install pdf2image
+```
